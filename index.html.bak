@@ -104,8 +104,20 @@
         <p class="p" data-i18n="success_fee_p"></p>
       </div>
     </div>
-
-
+<div class="panel">
+          <h3 class="h3" data-i18n="pipe2_t"></h3>
+          <p class="p" data-i18n="pipe2_p"></p>
+        </div>
+        <div class="panel">
+          <h3 class="h3" data-i18n="pipe3_t"></h3>
+          <p class="p" data-i18n="pipe3_p"></p>
+        </div>
+        <div class="panel">
+          <h3 class="h3" data-i18n="pipe4_t"></h3>
+          <p class="p" data-i18n="pipe4_p"></p>
+        </div>
+      </div>
+    </div>
   </section>
 <section class="section" id="how">
     <h2 class="section-title" data-i18n="how_title"></h2>
